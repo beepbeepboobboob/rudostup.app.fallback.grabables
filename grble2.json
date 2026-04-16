@@ -1,0 +1,13 @@
+{"ok":true,
+"proxy":"socks5://11.11.11.11:11000", 
+"socks5":"AUQ.B1Q.16Y.N9", 
+"socks5port":"41729",
+"allowedapps":"com.google.android.youtube,jp.naver.line.android,com.facebook.orca,com.facebook.katana,com.instagram.android,com.google.android.youtube.tv,com.google.android.apps.youtube.creator,com.google.android.youtube.tvmusic,com.google.android.apps.youtube.music,com.tencent.mm,net.skyscanner.android.main,com.booking,com.openai.chatgpt,com.spotify.music,ru.sberdevices.startube,org.thoughtcrime.securesms,com.viber.voip,com.snapchat.android,com.soundcloud.android,org.telegram.messenger,com.whatsapp,org.telegram.messenger.web",
+"auth":false,
+"auth123":false,
+"authuser":"ss",
+"authpass":"ss",
+"userip":"1.1.1.1",
+"note":"Конфиг 2 загружен",
+"footer_note":"Powered by RosKomNadzor... шутка.."
+}
